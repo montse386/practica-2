@@ -5,6 +5,6 @@
 
 #Velocidad de autos en km que van hacia el norte:
 # 97, 85, 82, 69, 81, 82, 75, 71, 100, 68
-#"media_Aritmetica.R
+#(7,10)"media_Aritmetica.R"
 #Velocidad de autos en km que van hacia el sur:
-#105, 92, 81, 67, 82, 61, 85, 86, 90, 63 
+#105, 92, 81, 67, 82, 61, 85, 86, 90, 63,
